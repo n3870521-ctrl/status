@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "message": "PC-Check del torneo. Si tienes problemas escribe al admin en Discord.",
+  "minAppVersion": "",
+
+  "salt": "RfovNCL2jPMC4vRgTqCGwQ==",
+  "iterations": 100000,
+
+  "keyHash": "92eo9NirwC3c+BRY75QM6JpiU82eOpbbJLZ7Sn6MnXA=",
+
+  "registrationOpen": true,
+
+  "users": [
+    {
+      "user": "nacho",
+      "hash": "NXShzt0C2bmC4UxLCnJANhVY+yG/LG5Gjc0KBYEMSXE=",
+      "expires": "",
+      "role": "admin",
+      "note": "organizador"
+    }
+  ]
+}
