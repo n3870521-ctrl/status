@@ -17,6 +17,13 @@
       "expires": "",
       "role": "admin",
       "note": "organizador"
+    },
+    {
+      "user": "pepe123",
+      "hash": "246GL6eQztYKWt90sDSeVB5qOQdIsHUcbBh8fIA7VME=",
+      "expires": "",
+      "role": "",
+      "note": "naco"
     }
   ]
 }
