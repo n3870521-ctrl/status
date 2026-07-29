@@ -24,6 +24,14 @@
       "expires": "",
       "role": "",
       "note": "naco"
+    },
+    {
+      "user": "Onyx",
+      "hash": "oBDg5hKjmGQW8284zSRRdus+vrvzknd+I44+1AOEWr0=",
+      "expires": "",
+      "role": "admin",
+      "note": "Onyx, UTDP faction",
+      "machine": ""
     }
   ]
 }
