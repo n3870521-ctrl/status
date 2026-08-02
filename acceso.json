@@ -17,7 +17,7 @@
       "expires": "",
       "role": "admin",
       "note": "organizador",
-      "excluirCanalSecundario": false
+      "excluirCanalSecundario": true
     },
     {
       "user": "pepe123",
@@ -33,7 +33,7 @@
       "role": "admin",
       "note": "Onyx, UTDP faction",
       "machine": "PC-CVFJR-45UMG",
-      "excluirCanalSecundario": false
+      "excluirCanalSecundario": true
     },
     {
   "user": "Volum",
@@ -42,7 +42,7 @@
   "role": "admin",
   "note": "crisproBETA, bananiao",
   "machine": "PC-6WH9Y-7Q5JB",
-    "excluirCanalSecundario": false
+    "excluirCanalSecundario": true
 }
   ]
 }
