@@ -16,7 +16,8 @@
       "hash": "ah0hOZ+qURDbg00XDHvcJPMoQEg6LlTl4+9C5H54+lQ=",
       "expires": "",
       "role": "admin",
-      "note": "organizador"
+      "note": "organizador",
+      "excluirCanalSecundario": false
     },
     {
       "user": "pepe123",
@@ -31,7 +32,8 @@
       "expires": "",
       "role": "admin",
       "note": "Onyx, UTDP faction",
-      "machine": "PC-CVFJR-45UMG"
+      "machine": "PC-CVFJR-45UMG",
+      "excluirCanalSecundario": false
     },
     {
   "user": "Volum",
@@ -39,7 +41,8 @@
   "expires": "",
   "role": "admin",
   "note": "crisproBETA, bananiao",
-  "machine": "PC-6WH9Y-7Q5JB"
+  "machine": "PC-6WH9Y-7Q5JB",
+    "excluirCanalSecundario": false
 }
   ]
 }
